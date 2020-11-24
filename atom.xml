@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://starrynight32.github.io</id>
-    <title>Gridea</title>
-    <updated>2020-11-24T11:04:27.591Z</updated>
+    <title>StarryNight_32</title>
+    <updated>2020-11-24T11:06:28.572Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://starrynight32.github.io"/>
     <link rel="self" href="https://starrynight32.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>我想去远方，可远方太远&lt;br&gt;我想伏地生活，但心有不安&lt;br&gt;我想在迷雾中穿行&lt;br&gt;我不知道我会成为什么人，但我知道我不能成为什么人&lt;br&gt;我只是要拒绝庸常</subtitle>
     <logo>https://starrynight32.github.io/images/avatar.png</logo>
     <icon>https://starrynight32.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, StarryNight_32</rights>
     <entry>
         <title type="html"><![CDATA[Leb128 数据类型]]></title>
         <id>https://starrynight32.github.io/post/leb128-shu-ju-lei-xing/</id>
